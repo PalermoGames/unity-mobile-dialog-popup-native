@@ -1,0 +1,9 @@
+{
+	"name": "com.nativedialog.palermo",
+	"displayName":"Native Popup",
+	"version": "1.0.0",
+	"unity": "2020.3",
+	"description": "Mobile Dialog Unity (Info, Confirm, Neutral, Date time Picker, Toast, Progress)",
+	"dependencies": {
+	}
+}
